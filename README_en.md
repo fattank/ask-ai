@@ -44,16 +44,15 @@ This repo contains **two sets of practical templates** for asking medical questi
 
 ## 2. Documents
 
-- 🧍‍♀️ **Patient guide (Chinese)**  
-  [`PATIENT_GUIDE_zh.md`](./PATIENT_GUIDE_zh.md)
+- 🧍‍♀️ **Patient guide (English)**  
+  [`PATIENT_GUIDE_zh.md`](./PATIENT_GUIDE_en.md)
 
-- 🩺 **Primary care doctor guide (Chinese)**  
-  [`DOCTOR_GUIDE_zh.md`](./DOCTOR_GUIDE_zh.md)
+- 🩺 **Primary care doctor guide (English)**  
+  [`DOCTOR_GUIDE_zh.md`](./DOCTOR_GUIDE_en.md)
 
-- 🇨🇳 **Chinese README**  
-  [`README.md`](./README.md)
+- 🇨🇳 **English README**  
+  [`README.md`](./README_en.md)
 
-(If English-language guides are added in the future, link them here as well.)
 
 ---
 
@@ -65,7 +64,7 @@ Simple rule:
 
 > **3 sentences to describe your situation + 3 questions to ask AI.**
 
-See: [`PATIENT_GUIDE_zh.md`](./PATIENT_GUIDE_zh.md)
+See: [`PATIENT_GUIDE_zh.md`](./PATIENT_GUIDE_en.md)
 
 You will find copy‑and‑edit templates for:
 
@@ -80,7 +79,7 @@ Core idea:
 > **First explain your own thinking,  
 > then ask AI to think wider, challenge you, and prioritize risks.**
 
-See: [`DOCTOR_GUIDE_zh.md`](./DOCTOR_GUIDE_zh.md)
+See: [`DOCTOR_GUIDE_zh.md`](./DOCTOR_GUIDE_en.md)
 
 It includes:
 
