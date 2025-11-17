@@ -1,4 +1,8 @@
-# ASK-AI
+# ASK-AI （由公众号-指明就医方向-创作）
+为了《健康中国2030》，人工智能+医疗卫生基层全覆盖。人工智能日趋成熟，合理运用现有人工智能APP，已经可以全面覆盖基层诊疗和预征以及疑难杂症的排查，无需开发新系统，零成本使用人工智能工具。现以deepseek为例，引导患者和基层医生使用。
+
+项目名称：ASK-AI 一个用于评估个人健康问题和指导医疗决策的逻辑框架。它并非诊断工具，而是一个结构化的思维模型，旨在帮助您清晰地描述症状，理性地评估其紧急程度，并确定最安全的后续步骤。
+
 Project Name: ASK-AI  A logical framework for assessing personal health concerns and navigating medical care decisions. This is not a diagnostic tool, but a structured thinking model to help you clearly articulate symptoms, rationally triage their urgency, and determine the safest next steps.
 
 # AI 医疗提问指南 / AI Medical Question Guides
