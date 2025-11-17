@@ -3,7 +3,7 @@ Project Name: ASK-AI  A logical framework for assessing personal health concerns
 
 # AI 医疗提问指南 / AI Medical Question Guides
 
-![DeepSeek Logo](.deepseek-logo.png)
+![DeepSeek Logo](./deepseek-logo.png)
 
 > 教你如何更安全、更清晰地向 AI 提健康相关问题。  
 > 目标：**帮助沟通，不替代医生。**
