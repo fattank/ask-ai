@@ -2,7 +2,7 @@
 
 > Goal:  
 > - Help you describe your health situation to AI **clearly and safely**.  
-> - Let AI help you整理信息、理解严重程度、准备看医生。  
+> - Let AI help you Organize information, understand the severity, and prepare to see a doctor.  
 > - Not to turn AI into your doctor or to get “online prescriptions”.
 
 ---
@@ -241,7 +241,7 @@ When you feel unwell and want to ask AI, you can copy this and fill in the blank
 ## 8. Final Reminder
 
 - AI **can** help you:
-  -整理信息、理清思路、翻译专业词语、准备问题问医生。  
+  -Organize information, clarify thoughts, translate technical terms, and prepare questions to ask the doctor.  
 - AI **cannot**:
   - provide a definitive diagnosis,  
   - decide what medicine you should take,  
